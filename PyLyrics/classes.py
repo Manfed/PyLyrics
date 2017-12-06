@@ -1,5 +1,5 @@
-#Classes for Scrapers
+# Classes for Scrapers
 try:
-	from .functions import *
+    from .functions import *
 except:
-	from functions import *
+    from functions import *
